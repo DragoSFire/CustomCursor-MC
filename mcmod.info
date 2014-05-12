@@ -1,0 +1,16 @@
+[
+{
+        "modid": "CustomCursor",
+        "name": "Custom Cursor",
+        "description": "Replaces the standard mouse on your own.",
+        "version": "1.6.4",
+        "credits": "",
+        "authors": ["DragoSFire"],
+        "logoFile": "",
+        "url": "http://craftzoneuz.org/",
+        "updateUrl": "",
+        "parent": "",
+        "screenshots": [],
+        "dependencies": []
+}
+]
